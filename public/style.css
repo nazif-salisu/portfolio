@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'poppins';
+}
+
+body {
+    background: #050816;
+    font-family: 'poppins';
+    color: #fff;
+    overflow: hidden;
+    overflow-y: scroll;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+body::-webkit-scrollbar-track {
+    background: #f0eef7;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #18151b;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #2b2730d3;
+}
+::-webkit-scrollbar-thumb:active {
+    background: #18151b6e;
+}
