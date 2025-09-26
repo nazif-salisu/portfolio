@@ -2,7 +2,7 @@ import {useEffect, useState } from "react";
 
 
   const TextCycler = () => {
-    const texts = [ 'Naza', 'NazCon'];
+    const texts = [ 'Graphics', 'Web Design'];
     const [currentIndex, setCurrentIndex] = useState(0);
 
     useEffect(()=>{
