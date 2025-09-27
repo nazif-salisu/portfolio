@@ -29,7 +29,7 @@ const Skills = () => {
             <img src={uiDesign} alt='' className='skillBarImg' />
             <div className='skillBarText'>
               <h2>Graphic Designer</h2>
-              <p>I'm a graphic designer, I can provide a proster design, logo design and banner.</p>
+              <p>I'm a graphic designer, I can provide a poster design, logo design and banner.</p>
             </div>
           </div>
           <div className='skillBar'>
