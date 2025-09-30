@@ -3,7 +3,7 @@ import './Works.css';
 import work_1 from '../../Assets/work_1.jpg';
 import work_2 from '../../Assets/work_2.jpg';
 import work_3 from '../../Assets/work_3.jpg';
-import work_4 from '../../Assets/work_4.jpg';
+import work_4 from '../../Assets/6@3x.jpg';
 import work_5 from '../../Assets/work_5.jpg';
 import work_6 from '../../Assets/12.jpg';
 
